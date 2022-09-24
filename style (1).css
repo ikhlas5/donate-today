@@ -1,0 +1,215 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+}
+#hader-color{
+    color: orangered;
+}
+h1 {
+    font-size: 50px;
+}
+
+.top-banner {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-size: cover;
+    height: 500px;
+    background-color: #cccccc;
+    position: relative;
+}
+
+.align {
+    text-align: center;
+}
+
+.half-width {
+    width: 50%;
+    margin: auto;
+    padding-bottom: 30px;
+}
+
+.width {
+    color: white;
+    padding-top: 150px;
+    margin-bottom: 100px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 141, 10), tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.flex {
+    display: flex;
+    margin-left: 28%;
+
+}
+
+.bolt {
+    font-weight: 700;
+    font-size: 40px;
+    color: blue;
+}
+
+.gray {
+    color: gray;
+}
+
+#cg {
+    color: rgb(146, 146, 146);
+}
+
+hr {
+    width: 50%;
+    margin-bottom: 30px;
+    color: rgb(110, 109, 109);
+}
+
+.margin {
+    margin-bottom: 100px;
+}
+
+#color {
+    color: red;
+    border: 2px solid red;
+    background-color: rgb(248, 232, 232);
+    padding: 20px 20px;
+    border-radius: 5px;
+    margin-left: 20px;
+
+}
+
+.price-item {
+    background-color: rgb(240, 238, 238);
+    padding: 20px 20px;
+    border-radius: 5px;
+    margin-left: 20px;
+    color: rgb(111, 111, 111);
+
+}
+
+.price-ite {
+    background-color: rgb(210, 206, 206);
+}
+
+.food-item {
+    padding: 120px 50px 20px;
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 33%;
+}
+
+.flex-two {
+    display: flex;
+    margin: 0% 10%;
+}
+
+#bg-image-1 {
+    background-image: url(icons/food.png);
+    background-repeat: no-repeat;
+    background-position: 20px 50px;
+    background-size: 50px;
+    background-color: rgb(237, 241, 255);
+}
+
+#bg-image-2 {
+    background-image: url(icons/shelter.png);
+    background-repeat: no-repeat;
+    background-position: 20px 50px;
+    background-size: 50px;
+    background-color: rgb(255, 225, 252);
+
+}
+
+#bg-image-3 {
+    background-image: url(icons/Frame-1.png);
+    background-repeat: no-repeat;
+    background-position: 20px 50px;
+    background-size: 50px;
+    background-color: rgb(219, 255, 245);
+}
+.donate-image img{
+    border-radius: 10px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 10px 0px;
+
+}
+
+#red {
+    color: orangered;
+}
+
+#padding {
+    padding-bottom: 150px;
+}
+
+.padding-b {
+    margin-bottom: 100px;
+}
+
+.margin-a {
+    margin: 100px 15%;
+}
+
+.margin-b {
+    margin: 50px 35%;
+}
+
+form {
+    background-color: rgb(251, 187, 222);
+    padding: 50px 150px;
+    display: inline;
+}
+
+#input {
+    background-color: rgb(199, 230, 255);
+    border-width: 0px;
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+#button {
+    background-color: rgb(255, 0, 0);
+    color: white;
+    border-width: 0px;
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-left: -1%;
+
+}
+
+.flex-donate {
+    display: flex;
+    margin: 100px;
+
+
+}
+
+.width-donate {
+    width: 50%;
+    padding: 50px;
+}
+
+.width-donate img {
+    width: 100%;
+
+}
